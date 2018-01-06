@@ -43,10 +43,10 @@ RM = /home/krucisatorul/Programs/clion-2017.3.1/bin/cmake/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/krucisatorul/CLionProjects/untitled
+CMAKE_SOURCE_DIR = /home/krucisatorul/CLionProjects/Tema_POO
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/krucisatorul/CLionProjects/untitled/cmake-build-debug
+CMAKE_BINARY_DIR = /home/krucisatorul/CLionProjects/Tema_POO/cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/untitled.dir/depend.make
@@ -59,16 +59,16 @@ include CMakeFiles/untitled.dir/flags.make
 
 CMakeFiles/untitled.dir/main.cpp.o: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/main.cpp.o: ../main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/krucisatorul/CLionProjects/untitled/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/untitled.dir/main.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/untitled.dir/main.cpp.o -c /home/krucisatorul/CLionProjects/untitled/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/krucisatorul/CLionProjects/Tema_POO/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/untitled.dir/main.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/untitled.dir/main.cpp.o -c /home/krucisatorul/CLionProjects/Tema_POO/main.cpp
 
 CMakeFiles/untitled.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/main.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/krucisatorul/CLionProjects/untitled/main.cpp > CMakeFiles/untitled.dir/main.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/krucisatorul/CLionProjects/Tema_POO/main.cpp > CMakeFiles/untitled.dir/main.cpp.i
 
 CMakeFiles/untitled.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/main.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/krucisatorul/CLionProjects/untitled/main.cpp -o CMakeFiles/untitled.dir/main.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/krucisatorul/CLionProjects/Tema_POO/main.cpp -o CMakeFiles/untitled.dir/main.cpp.s
 
 CMakeFiles/untitled.dir/main.cpp.o.requires:
 
@@ -83,16 +83,16 @@ CMakeFiles/untitled.dir/main.cpp.o.provides.build: CMakeFiles/untitled.dir/main.
 
 CMakeFiles/untitled.dir/Person.cpp.o: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/Person.cpp.o: ../Person.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/krucisatorul/CLionProjects/untitled/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/untitled.dir/Person.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/untitled.dir/Person.cpp.o -c /home/krucisatorul/CLionProjects/untitled/Person.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/krucisatorul/CLionProjects/Tema_POO/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/untitled.dir/Person.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/untitled.dir/Person.cpp.o -c /home/krucisatorul/CLionProjects/Tema_POO/Person.cpp
 
 CMakeFiles/untitled.dir/Person.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/Person.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/krucisatorul/CLionProjects/untitled/Person.cpp > CMakeFiles/untitled.dir/Person.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/krucisatorul/CLionProjects/Tema_POO/Person.cpp > CMakeFiles/untitled.dir/Person.cpp.i
 
 CMakeFiles/untitled.dir/Person.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/Person.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/krucisatorul/CLionProjects/untitled/Person.cpp -o CMakeFiles/untitled.dir/Person.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/krucisatorul/CLionProjects/Tema_POO/Person.cpp -o CMakeFiles/untitled.dir/Person.cpp.s
 
 CMakeFiles/untitled.dir/Person.cpp.o.requires:
 
@@ -107,16 +107,16 @@ CMakeFiles/untitled.dir/Person.cpp.o.provides.build: CMakeFiles/untitled.dir/Per
 
 CMakeFiles/untitled.dir/Utility.cpp.o: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/Utility.cpp.o: ../Utility.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/krucisatorul/CLionProjects/untitled/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/untitled.dir/Utility.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/untitled.dir/Utility.cpp.o -c /home/krucisatorul/CLionProjects/untitled/Utility.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/krucisatorul/CLionProjects/Tema_POO/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/untitled.dir/Utility.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/untitled.dir/Utility.cpp.o -c /home/krucisatorul/CLionProjects/Tema_POO/Utility.cpp
 
 CMakeFiles/untitled.dir/Utility.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/Utility.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/krucisatorul/CLionProjects/untitled/Utility.cpp > CMakeFiles/untitled.dir/Utility.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/krucisatorul/CLionProjects/Tema_POO/Utility.cpp > CMakeFiles/untitled.dir/Utility.cpp.i
 
 CMakeFiles/untitled.dir/Utility.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/Utility.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/krucisatorul/CLionProjects/untitled/Utility.cpp -o CMakeFiles/untitled.dir/Utility.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/krucisatorul/CLionProjects/Tema_POO/Utility.cpp -o CMakeFiles/untitled.dir/Utility.cpp.s
 
 CMakeFiles/untitled.dir/Utility.cpp.o.requires:
 
@@ -131,16 +131,16 @@ CMakeFiles/untitled.dir/Utility.cpp.o.provides.build: CMakeFiles/untitled.dir/Ut
 
 CMakeFiles/untitled.dir/Track.cpp.o: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/Track.cpp.o: ../Track.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/krucisatorul/CLionProjects/untitled/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/untitled.dir/Track.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/untitled.dir/Track.cpp.o -c /home/krucisatorul/CLionProjects/untitled/Track.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/krucisatorul/CLionProjects/Tema_POO/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/untitled.dir/Track.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/untitled.dir/Track.cpp.o -c /home/krucisatorul/CLionProjects/Tema_POO/Track.cpp
 
 CMakeFiles/untitled.dir/Track.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/Track.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/krucisatorul/CLionProjects/untitled/Track.cpp > CMakeFiles/untitled.dir/Track.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/krucisatorul/CLionProjects/Tema_POO/Track.cpp > CMakeFiles/untitled.dir/Track.cpp.i
 
 CMakeFiles/untitled.dir/Track.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/Track.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/krucisatorul/CLionProjects/untitled/Track.cpp -o CMakeFiles/untitled.dir/Track.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/krucisatorul/CLionProjects/Tema_POO/Track.cpp -o CMakeFiles/untitled.dir/Track.cpp.s
 
 CMakeFiles/untitled.dir/Track.cpp.o.requires:
 
@@ -155,16 +155,16 @@ CMakeFiles/untitled.dir/Track.cpp.o.provides.build: CMakeFiles/untitled.dir/Trac
 
 CMakeFiles/untitled.dir/Album.cpp.o: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/Album.cpp.o: ../Album.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/krucisatorul/CLionProjects/untitled/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/untitled.dir/Album.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/untitled.dir/Album.cpp.o -c /home/krucisatorul/CLionProjects/untitled/Album.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/krucisatorul/CLionProjects/Tema_POO/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/untitled.dir/Album.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/untitled.dir/Album.cpp.o -c /home/krucisatorul/CLionProjects/Tema_POO/Album.cpp
 
 CMakeFiles/untitled.dir/Album.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/Album.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/krucisatorul/CLionProjects/untitled/Album.cpp > CMakeFiles/untitled.dir/Album.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/krucisatorul/CLionProjects/Tema_POO/Album.cpp > CMakeFiles/untitled.dir/Album.cpp.i
 
 CMakeFiles/untitled.dir/Album.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/Album.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/krucisatorul/CLionProjects/untitled/Album.cpp -o CMakeFiles/untitled.dir/Album.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/krucisatorul/CLionProjects/Tema_POO/Album.cpp -o CMakeFiles/untitled.dir/Album.cpp.s
 
 CMakeFiles/untitled.dir/Album.cpp.o.requires:
 
@@ -179,16 +179,16 @@ CMakeFiles/untitled.dir/Album.cpp.o.provides.build: CMakeFiles/untitled.dir/Albu
 
 CMakeFiles/untitled.dir/Artist.cpp.o: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/Artist.cpp.o: ../Artist.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/krucisatorul/CLionProjects/untitled/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/untitled.dir/Artist.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/untitled.dir/Artist.cpp.o -c /home/krucisatorul/CLionProjects/untitled/Artist.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/krucisatorul/CLionProjects/Tema_POO/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/untitled.dir/Artist.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/untitled.dir/Artist.cpp.o -c /home/krucisatorul/CLionProjects/Tema_POO/Artist.cpp
 
 CMakeFiles/untitled.dir/Artist.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/Artist.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/krucisatorul/CLionProjects/untitled/Artist.cpp > CMakeFiles/untitled.dir/Artist.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/krucisatorul/CLionProjects/Tema_POO/Artist.cpp > CMakeFiles/untitled.dir/Artist.cpp.i
 
 CMakeFiles/untitled.dir/Artist.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/Artist.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/krucisatorul/CLionProjects/untitled/Artist.cpp -o CMakeFiles/untitled.dir/Artist.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/krucisatorul/CLionProjects/Tema_POO/Artist.cpp -o CMakeFiles/untitled.dir/Artist.cpp.s
 
 CMakeFiles/untitled.dir/Artist.cpp.o.requires:
 
@@ -221,7 +221,7 @@ untitled: CMakeFiles/untitled.dir/Album.cpp.o
 untitled: CMakeFiles/untitled.dir/Artist.cpp.o
 untitled: CMakeFiles/untitled.dir/build.make
 untitled: CMakeFiles/untitled.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/krucisatorul/CLionProjects/untitled/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Linking CXX executable untitled"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/krucisatorul/CLionProjects/Tema_POO/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Linking CXX executable untitled"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/untitled.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -243,6 +243,6 @@ CMakeFiles/untitled.dir/clean:
 .PHONY : CMakeFiles/untitled.dir/clean
 
 CMakeFiles/untitled.dir/depend:
-	cd /home/krucisatorul/CLionProjects/untitled/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/krucisatorul/CLionProjects/untitled /home/krucisatorul/CLionProjects/untitled /home/krucisatorul/CLionProjects/untitled/cmake-build-debug /home/krucisatorul/CLionProjects/untitled/cmake-build-debug /home/krucisatorul/CLionProjects/untitled/cmake-build-debug/CMakeFiles/untitled.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/krucisatorul/CLionProjects/Tema_POO/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/krucisatorul/CLionProjects/Tema_POO /home/krucisatorul/CLionProjects/Tema_POO /home/krucisatorul/CLionProjects/Tema_POO/cmake-build-debug /home/krucisatorul/CLionProjects/Tema_POO/cmake-build-debug /home/krucisatorul/CLionProjects/Tema_POO/cmake-build-debug/CMakeFiles/untitled.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/untitled.dir/depend
 

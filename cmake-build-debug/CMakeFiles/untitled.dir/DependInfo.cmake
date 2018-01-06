@@ -4,12 +4,12 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/krucisatorul/CLionProjects/untitled/Album.cpp" "/home/krucisatorul/CLionProjects/untitled/cmake-build-debug/CMakeFiles/untitled.dir/Album.cpp.o"
-  "/home/krucisatorul/CLionProjects/untitled/Artist.cpp" "/home/krucisatorul/CLionProjects/untitled/cmake-build-debug/CMakeFiles/untitled.dir/Artist.cpp.o"
-  "/home/krucisatorul/CLionProjects/untitled/Person.cpp" "/home/krucisatorul/CLionProjects/untitled/cmake-build-debug/CMakeFiles/untitled.dir/Person.cpp.o"
-  "/home/krucisatorul/CLionProjects/untitled/Track.cpp" "/home/krucisatorul/CLionProjects/untitled/cmake-build-debug/CMakeFiles/untitled.dir/Track.cpp.o"
-  "/home/krucisatorul/CLionProjects/untitled/Utility.cpp" "/home/krucisatorul/CLionProjects/untitled/cmake-build-debug/CMakeFiles/untitled.dir/Utility.cpp.o"
-  "/home/krucisatorul/CLionProjects/untitled/main.cpp" "/home/krucisatorul/CLionProjects/untitled/cmake-build-debug/CMakeFiles/untitled.dir/main.cpp.o"
+  "/home/krucisatorul/CLionProjects/Tema_POO/Album.cpp" "/home/krucisatorul/CLionProjects/Tema_POO/cmake-build-debug/CMakeFiles/untitled.dir/Album.cpp.o"
+  "/home/krucisatorul/CLionProjects/Tema_POO/Artist.cpp" "/home/krucisatorul/CLionProjects/Tema_POO/cmake-build-debug/CMakeFiles/untitled.dir/Artist.cpp.o"
+  "/home/krucisatorul/CLionProjects/Tema_POO/Person.cpp" "/home/krucisatorul/CLionProjects/Tema_POO/cmake-build-debug/CMakeFiles/untitled.dir/Person.cpp.o"
+  "/home/krucisatorul/CLionProjects/Tema_POO/Track.cpp" "/home/krucisatorul/CLionProjects/Tema_POO/cmake-build-debug/CMakeFiles/untitled.dir/Track.cpp.o"
+  "/home/krucisatorul/CLionProjects/Tema_POO/Utility.cpp" "/home/krucisatorul/CLionProjects/Tema_POO/cmake-build-debug/CMakeFiles/untitled.dir/Utility.cpp.o"
+  "/home/krucisatorul/CLionProjects/Tema_POO/main.cpp" "/home/krucisatorul/CLionProjects/Tema_POO/cmake-build-debug/CMakeFiles/untitled.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

@@ -8,38 +8,38 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="/home/krucisatorul/CLionProjects/untitled/cmake-build-debug"/>
+				<Option working_dir="/home/krucisatorul/CLionProjects/Tema_POO/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j2 -f &quot;/home/krucisatorul/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/krucisatorul/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j2 -f &quot;/home/krucisatorul/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j2 -f &quot;/home/krucisatorul/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/krucisatorul/CLionProjects/Tema_POO/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/krucisatorul/CLionProjects/Tema_POO/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/krucisatorul/CLionProjects/Tema_POO/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/krucisatorul/CLionProjects/Tema_POO/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="/home/krucisatorul/CLionProjects/untitled/cmake-build-debug"/>
+				<Option working_dir="/home/krucisatorul/CLionProjects/Tema_POO/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j2 -f &quot;/home/krucisatorul/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/krucisatorul/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j2 -f &quot;/home/krucisatorul/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j2 -f &quot;/home/krucisatorul/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/krucisatorul/CLionProjects/Tema_POO/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/krucisatorul/CLionProjects/Tema_POO/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/krucisatorul/CLionProjects/Tema_POO/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/krucisatorul/CLionProjects/Tema_POO/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="/home/krucisatorul/CLionProjects/untitled/cmake-build-debug"/>
+				<Option working_dir="/home/krucisatorul/CLionProjects/Tema_POO/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j2 -f &quot;/home/krucisatorul/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/krucisatorul/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j2 -f &quot;/home/krucisatorul/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j2 -f &quot;/home/krucisatorul/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/krucisatorul/CLionProjects/Tema_POO/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/krucisatorul/CLionProjects/Tema_POO/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/krucisatorul/CLionProjects/Tema_POO/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/krucisatorul/CLionProjects/Tema_POO/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="untitled">
-				<Option output="/home/krucisatorul/CLionProjects/untitled/cmake-build-debug/untitled" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/krucisatorul/CLionProjects/untitled/cmake-build-debug"/>
+				<Option output="/home/krucisatorul/CLionProjects/Tema_POO/cmake-build-debug/untitled" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/krucisatorul/CLionProjects/Tema_POO/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -54,15 +54,15 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j2 -f &quot;/home/krucisatorul/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 untitled"/>
-					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/krucisatorul/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j2 -f &quot;/home/krucisatorul/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j2 -f &quot;/home/krucisatorul/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/krucisatorul/CLionProjects/Tema_POO/cmake-build-debug/Makefile&quot;  VERBOSE=1 untitled"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/krucisatorul/CLionProjects/Tema_POO/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/krucisatorul/CLionProjects/Tema_POO/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/krucisatorul/CLionProjects/Tema_POO/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="untitled/fast">
-				<Option output="/home/krucisatorul/CLionProjects/untitled/cmake-build-debug/untitled" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/krucisatorul/CLionProjects/untitled/cmake-build-debug"/>
+				<Option output="/home/krucisatorul/CLionProjects/Tema_POO/cmake-build-debug/untitled" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/krucisatorul/CLionProjects/Tema_POO/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -77,47 +77,47 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j2 -f &quot;/home/krucisatorul/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 untitled/fast"/>
-					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/krucisatorul/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j2 -f &quot;/home/krucisatorul/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j2 -f &quot;/home/krucisatorul/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/krucisatorul/CLionProjects/Tema_POO/cmake-build-debug/Makefile&quot;  VERBOSE=1 untitled/fast"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/krucisatorul/CLionProjects/Tema_POO/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/krucisatorul/CLionProjects/Tema_POO/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/krucisatorul/CLionProjects/Tema_POO/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/home/krucisatorul/CLionProjects/untitled/Album.cpp">
+		<Unit filename="/home/krucisatorul/CLionProjects/Tema_POO/Album.cpp">
 			<Option target="untitled"/>
 		</Unit>
-		<Unit filename="/home/krucisatorul/CLionProjects/untitled/Album.h">
+		<Unit filename="/home/krucisatorul/CLionProjects/Tema_POO/Album.h">
 			<Option target="untitled"/>
 		</Unit>
-		<Unit filename="/home/krucisatorul/CLionProjects/untitled/Artist.cpp">
+		<Unit filename="/home/krucisatorul/CLionProjects/Tema_POO/Artist.cpp">
 			<Option target="untitled"/>
 		</Unit>
-		<Unit filename="/home/krucisatorul/CLionProjects/untitled/Artist.h">
+		<Unit filename="/home/krucisatorul/CLionProjects/Tema_POO/Artist.h">
 			<Option target="untitled"/>
 		</Unit>
-		<Unit filename="/home/krucisatorul/CLionProjects/untitled/Person.cpp">
+		<Unit filename="/home/krucisatorul/CLionProjects/Tema_POO/Person.cpp">
 			<Option target="untitled"/>
 		</Unit>
-		<Unit filename="/home/krucisatorul/CLionProjects/untitled/Person.h">
+		<Unit filename="/home/krucisatorul/CLionProjects/Tema_POO/Person.h">
 			<Option target="untitled"/>
 		</Unit>
-		<Unit filename="/home/krucisatorul/CLionProjects/untitled/Track.cpp">
+		<Unit filename="/home/krucisatorul/CLionProjects/Tema_POO/Track.cpp">
 			<Option target="untitled"/>
 		</Unit>
-		<Unit filename="/home/krucisatorul/CLionProjects/untitled/Track.h">
+		<Unit filename="/home/krucisatorul/CLionProjects/Tema_POO/Track.h">
 			<Option target="untitled"/>
 		</Unit>
-		<Unit filename="/home/krucisatorul/CLionProjects/untitled/Utility.cpp">
+		<Unit filename="/home/krucisatorul/CLionProjects/Tema_POO/Utility.cpp">
 			<Option target="untitled"/>
 		</Unit>
-		<Unit filename="/home/krucisatorul/CLionProjects/untitled/Utility.h">
+		<Unit filename="/home/krucisatorul/CLionProjects/Tema_POO/Utility.h">
 			<Option target="untitled"/>
 		</Unit>
-		<Unit filename="/home/krucisatorul/CLionProjects/untitled/main.cpp">
+		<Unit filename="/home/krucisatorul/CLionProjects/Tema_POO/main.cpp">
 			<Option target="untitled"/>
 		</Unit>
-		<Unit filename="/home/krucisatorul/CLionProjects/untitled/CMakeLists.txt">
+		<Unit filename="/home/krucisatorul/CLionProjects/Tema_POO/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>
