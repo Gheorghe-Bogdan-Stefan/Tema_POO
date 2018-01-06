@@ -1,0 +1,33 @@
+Artist name: sad
+Artist age: 3
+Album number 1: Name: 3 Appearance Year: 1 Number of Tracks: 1
+Album number 2: Name: 1 Appearance Year: 1 Number of Tracks: 1
+Album number 3: Name: 2 Appearance Year: 2 Number of Tracks: 2
+Artist name: 3
+Artist age: 2
+Album number 1: Name: 3 Appearance Year: 1 Number of Tracks: 1
+Album number 2: Name: 1 Appearance Year: 1 Number of Tracks: 1
+Album number 3: Name: 1 Appearance Year: 1 Number of Tracks: 1
+Artist name: 3
+Artist age: 3
+Album number 1: Name: aab Appearance Year: 3 Number of Tracks: 1
+Album number 2: Name: aaa Appearance Year: 3 Number of Tracks: 1
+Album number 3: Name: aa Appearance Year: 3 Number of Tracks: 1
+Artist name: 2
+Artist age: 2
+Album number 1: Name: aab Appearance Year: 3 Number of Tracks: 1
+Album number 2: Name: aaa Appearance Year: 3 Number of Tracks: 1
+Album number 3: Name: aa Appearance Year: 3 Number of Tracks: 1
+Artist name: 3
+Artist age: 3
+Album number 1: Name: aac Appearance Year: 3 Number of Tracks: 1
+Album number 2: Name: aab Appearance Year: 3 Number of Tracks: 1
+Album number 3: Name: aaa Appearance Year: 3 Number of Tracks: 1
+Artist name: 3
+Artist age: 3
+Album number 1: Name: aa Appearance Year: 3 Number of Tracks: 1
+Album number 2: Name: aaa Appearance Year: 3 Number of Tracks: 1
+Album number 3: Name: aac Appearance Year: 3 Number of Tracks: 1
+Artist name: 1
+Artist age: 1
+Album number 1: Name: 1 Appearance Year: 1 Number of Tracks: 1

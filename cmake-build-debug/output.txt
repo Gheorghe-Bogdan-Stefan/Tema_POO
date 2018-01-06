@@ -1,0 +1,3 @@
+Artist name: asd
+Artist age: 3
+Album number 1: Name: 1 Appearance Year: 1 Number of Tracks: 1
